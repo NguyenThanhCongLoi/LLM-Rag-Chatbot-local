@@ -1,0 +1,259 @@
+{
+  "domains": {
+    "ban_giam_hieu": {
+      "title": "Ban giám hiệu",
+      "category": "leadership",
+      "routing_triggers": [
+        "hieu truong",
+        "pho hieu truong",
+        "hieu pho",
+        "ban giam hieu",
+        "lanh dao nha truong"
+      ],
+      "records": [
+        {
+          "name": "TS Trần Hoàng Long",
+          "role": "Hiệu trưởng Nhà trường",
+          "email": "thlong@uneti.edu.vn"
+        },
+        {
+          "name": "PGS.TS Nguyễn Hữu Quang",
+          "role": "Phó Hiệu trưởng phụ trách Đào tạo, Nghiên cứu khoa học và Hợp tác quốc tế",
+          "email": "nhquang@uneti.edu.vn"
+        }
+      ]
+    },
+    "co_so_vat_chat": {
+      "title": "Cơ sở vật chất",
+      "category": "campus_info",
+      "routing_triggers": [
+        "co so",
+        "dia chi",
+        "dia diem dao tao",
+        "minh khai",
+        "linh nam",
+        "tran hung dao",
+        "my xa",
+        "co so ha noi",
+        "co so nam dinh"
+      ],
+      "facts": [
+        "Trường Đại học Kinh tế – Kỹ thuật Công nghiệp có 4 địa điểm đào tạo.",
+        "Cơ sở Nam Định có 2 địa điểm tại 353 Trần Hưng Đạo, TP Nam Định và phường Mỹ Xá, TP Nam Định.",
+        "Cơ sở Hà Nội có 2 địa điểm tại 454 Minh Khai, quận Hai Bà Trưng và 218 Lĩnh Nam, phường Lĩnh Nam, quận Hoàng Mai, TP Hà Nội."
+      ],
+      "locations": [
+        {
+          "city": "Hà Nội",
+          "address": "454 Minh Khai, quận Hai Bà Trưng, TP Hà Nội"
+        },
+        {
+          "city": "Hà Nội",
+          "address": "218 Lĩnh Nam, phường Lĩnh Nam, quận Hoàng Mai, TP Hà Nội"
+        },
+        {
+          "city": "Nam Định",
+          "address": "353 Trần Hưng Đạo, TP Nam Định"
+        },
+        {
+          "city": "Nam Định",
+          "address": "Phường Mỹ Xá, TP Nam Định"
+        }
+      ]
+    },
+    "lich_su_hinh_thanh": {
+      "title": "Lịch sử hình thành",
+      "category": "history",
+      "routing_triggers": [
+        "lich su",
+        "tien than",
+        "thanh lap nam nao",
+        "qua trinh phat trien",
+        "giai doan phat trien"
+      ],
+      "facts": [
+        "Trường Đại học Kinh tế – Kỹ thuật Công nghiệp được thành lập theo Quyết định số 1206/QĐ-TTg ngày 11 tháng 9 năm 2007 của Thủ tướng Chính phủ.",
+        "Tiền thân là Trường Cao đẳng Kinh tế Kỹ thuật Công nghiệp I; xa hơn là Trường Trung cấp Kỹ thuật III thành lập năm 1956.",
+        "Quá trình phát triển của Nhà trường được khái quát theo 3 giai đoạn lớn."
+      ]
+    },
+    "hoi_dong_truong": {
+      "title": "Hội đồng trường",
+      "category": "council",
+      "routing_triggers": [
+        "hoi dong truong",
+        "chu tich hoi dong truong",
+        "thanh vien hoi dong truong"
+      ],
+      "facts": [
+        "Chủ tịch Hội đồng trường nhiệm kỳ 2020-2025 là PGS.TS Phạm Thị Thu Hoài.",
+        "TS. Trần Hoàng Long là thành viên Hội đồng trường với vai trò Hiệu trưởng.",
+        "PGS.TS Nguyễn Hữu Quang là thành viên Hội đồng trường với vai trò Phó Hiệu trưởng kiêm phụ trách phòng Khoa học – Công nghệ."
+      ]
+    },
+    "portal_howto": {
+      "title": "Cổng sinh viên",
+      "category": "student_portal",
+      "routing_triggers": [
+        "cong sinh vien",
+        "thong tin sinh vien",
+        "nhac nho",
+        "ket qua hoc tap",
+        "ket qua ren luyen",
+        "dang nhap",
+        "doi mat khau",
+        "lich hoc",
+        "lich thi",
+        "dang ky hoc phan",
+        "chuong trinh khung",
+        "cong no",
+        "phieu thu",
+        "diem danh"
+      ],
+      "qa": [
+        {
+          "question": "Mở cổng thông tin sinh viên ở đâu?",
+          "answer": "Bạn gõ địa chỉ http://sinhvien.uneti.edu.vn trên trình duyệt web để vào cổng thông tin sinh viên.",
+          "keywords": [
+            "trang chu",
+            "cong thong tin sinh vien",
+            "website sinh vien",
+            "sinhvien.uneti.edu.vn"
+          ]
+        },
+        {
+          "question": "Đăng nhập cổng thông tin sinh viên như thế nào?",
+          "answer": "Bạn nhập mã sinh viên, mật khẩu, mã bảo vệ rồi nhấn nút Đăng nhập.",
+          "keywords": [
+            "dang nhap",
+            "ma sinh vien",
+            "ma bao ve"
+          ]
+        },
+        {
+          "question": "Đổi mật khẩu trên cổng sinh viên như thế nào?",
+          "answer": "Bạn vào biểu tượng họ tên ở góc tài khoản, chọn đổi mật khẩu, nhập mật khẩu cũ, nhập mật khẩu mới, nhập lại mật khẩu mới rồi lưu.",
+          "keywords": [
+            "doi mat khau",
+            "doi password"
+          ]
+        },
+        {
+          "question": "Xem thông tin sinh viên ở đâu?",
+          "answer": "Từ trang chủ tài khoản cá nhân, bạn nhấn vào dòng Thông tin sinh viên ở dưới hình ảnh sinh viên để xem toàn bộ thông tin chi tiết của mình.",
+          "keywords": [
+            "xem thong tin sinh vien",
+            "ho so sinh vien",
+            "thong tin ca nhan"
+          ]
+        },
+        {
+          "question": "Xem lịch học hoặc lịch thi theo tuần ở đâu?",
+          "answer": "Bạn nhấn vào mục Lịch theo tuần để xem chi tiết thời khóa biểu học tập của từng học phần theo tuần.",
+          "keywords": [
+            "lich hoc",
+            "lich thi",
+            "lich theo tuan"
+          ]
+        },
+        {
+          "question": "Xem lịch theo tiến độ ở đâu?",
+          "answer": "Bạn nhấn vào mục Lịch theo tiến độ, chọn học kỳ hoặc lịch cần xem rồi thực hiện lệnh xem lịch.",
+          "keywords": [
+            "lich theo tien do"
+          ]
+        },
+        {
+          "question": "Xem lịch toàn trường ở đâu?",
+          "answer": "Bạn vào Dashboard -> Học tập -> Lịch toàn trường, nhập bậc, đợt, lớp hoặc mã môn/tên môn để tra cứu.",
+          "keywords": [
+            "lich toan truong"
+          ]
+        },
+        {
+          "question": "Xem nhắc nhở ở đâu?",
+          "answer": "Bạn nhấn vào mục Nhắc nhở để xem các thông tin hoặc thông báo của Nhà trường dành cho sinh viên.",
+          "keywords": [
+            "nhac nho",
+            "thong bao cho sinh vien"
+          ]
+        },
+        {
+          "question": "Xem thông tin điểm danh ở đâu?",
+          "answer": "Bạn vào Dashboard -> Học tập -> Thông tin điểm danh, rồi chọn học kỳ để xem thống kê điểm danh theo lớp học phần.",
+          "keywords": [
+            "diem danh"
+          ]
+        },
+        {
+          "question": "Xem chương trình khung ở đâu?",
+          "answer": "Bạn mở menu rút gọn ở góc trên bên trái màn hình rồi vào mục Chương trình khung để xem thông tin chương trình khung đào tạo theo học kỳ.",
+          "keywords": [
+            "chuong trinh khung"
+          ]
+        },
+        {
+          "question": "Xem kết quả học tập ở đâu?",
+          "answer": "Bạn chọn mục Kết quả học tập để xem chi tiết kết quả học tập, có thể chọn học kỳ cần xem hoặc chọn Tất cả.",
+          "keywords": [
+            "ket qua hoc tap",
+            "bang diem"
+          ]
+        },
+        {
+          "question": "Xem kết quả rèn luyện ở đâu?",
+          "answer": "Bạn chọn mục Kết quả rèn luyện để xem chi tiết điểm rèn luyện của mình.",
+          "keywords": [
+            "ket qua ren luyen",
+            "diem ren luyen"
+          ]
+        },
+        {
+          "question": "Đăng ký học phần trên cổng sinh viên như thế nào?",
+          "answer": "Việc đăng ký học tập được Nhà trường thông báo theo từng học kỳ trên menu Thông báo của trang chủ sinhvien.uneti.edu.vn. Bạn cần theo dõi thông báo hướng dẫn cụ thể của từng đợt đăng ký.",
+          "keywords": [
+            "dang ky hoc phan",
+            "dkhp",
+            "dang ky hoc tap"
+          ]
+        },
+        {
+          "question": "Hủy lớp học phần đã đăng ký như thế nào?",
+          "answer": "Trong màn hình Đăng ký học phần, tại danh sách lớp học phần đã đăng ký, bạn chọn chức năng hủy ở lớp học phần tương ứng.",
+          "keywords": [
+            "huy dang ky hoc phan"
+          ]
+        },
+        {
+          "question": "Đăng ký môn học điều kiện như thế nào?",
+          "answer": "Bạn vào Dashboard -> Đăng ký học phần -> Đăng ký môn học điều kiện, chọn đợt đăng ký, chọn môn học phần, chọn lớp được mở rồi xác nhận đăng ký.",
+          "keywords": [
+            "mon hoc dieu kien"
+          ]
+        },
+        {
+          "question": "Đăng ký thi lại như thế nào?",
+          "answer": "Việc đăng ký thi lại được Nhà trường thông báo cụ thể theo từng học kỳ trên menu Thông báo của trang chủ sinhvien.uneti.edu.vn. Bạn cần theo dõi thông báo hướng dẫn của từng đợt đăng ký.",
+          "keywords": [
+            "thi lai"
+          ]
+        },
+        {
+          "question": "Tra cứu công nợ ở đâu?",
+          "answer": "Bạn nhấn vào mục Tra cứu công nợ để xem chi tiết công nợ theo từng học kỳ và từng học phần; có thể chọn học kỳ cần xem hoặc chọn Tất cả.",
+          "keywords": [
+            "cong no",
+            "hoc phi"
+          ]
+        },
+        {
+          "question": "Xem phiếu thu tổng hợp ở đâu?",
+          "answer": "Bạn vào Dashboard -> Học phí -> Phiếu thu tổng hợp để xem chi tiết và in các phiếu thu đã nộp.",
+          "keywords": [
+            "phieu thu tong hop"
+          ]
+        }
+      ]
+    }
+  }
+}
